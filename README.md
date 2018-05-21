@@ -1,6 +1,6 @@
 # Openstack
 
-This is a brief explanation of how to mount a multinode OpenStack environment. The release is named Kolla-Ansible and it works with docker services so that does not depend on the host OS. In this case, Ubuntu 18.04 has been chosen and Pike as OpenStack release.
+This is a brief explanation of how to mount a multinode OpenStack environment. The Openstack deployed is called Kolla-Ansible and it works with docker services so that does not depend on the host OS. In this case, Ubuntu 18.04 has been chosen and Pike as OpenStack release.
 
 
 ## First Steps
